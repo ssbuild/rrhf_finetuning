@@ -1,6 +1,7 @@
 
 ```text
-    10-10 initial rrhf , 注意 训练 batch 为 1
+    2024-04-22 简化
+    2023-10-10 initial rrhf , 注意 训练 batch 为 1
 ```
 
 ## update information
